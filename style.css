@@ -25,6 +25,7 @@ a {
     text-decoration: none;
 }
 
+
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -49,9 +50,7 @@ a {
     transition: color 0.5s;
 }
 
-.section-item a:hover {
-    color: #3044fc;
-}
+
 
 .nav-link {
     padding: 0 20px;
@@ -96,8 +95,16 @@ img.my_photo {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #000000;
-    background-color: #bebebeda;
+    padding-top: 10px;
+
     position: relative;
+}
+.right-side .section-title {
+background-color: #979797;
+}
+
+.left-side .section-title {
+    background-color: #D3D3D3;
 }
 
 .section-title-name {
@@ -118,7 +125,7 @@ h1.section-title {
 }
 
 h2.section-title {
-    padding: 0 60px 0 60px;
+    padding: 9px 60px 9px 60px;
 }
 
 @media (max-width: 768px) {
