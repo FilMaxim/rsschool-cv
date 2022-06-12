@@ -168,7 +168,7 @@ li {
     list-style-type: none;
 }
 
-.footer {
+.footer_container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
