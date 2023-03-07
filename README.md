@@ -1,3 +1,3 @@
-https://FilMaxim.github.io/rsschool-cv/cv
+https://FilMaxim.github.io/rsschool-cv/
 
 My name is Maxim!
